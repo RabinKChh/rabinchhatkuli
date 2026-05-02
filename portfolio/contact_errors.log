@@ -1,0 +1,140 @@
+[16-Feb-2026 13:59:12 Europe/Berlin] Form submission received from: rabinchhatkuli@gmail.com
+[16-Feb-2026 13:59:12 Europe/Berlin] Testing SMTP connection to smtp.gmail.com:587
+[16-Feb-2026 13:59:12 Europe/Berlin] Starting SMTP connection to smtp.gmail.com:587
+[16-Feb-2026 13:59:12 Europe/Berlin] SMTP Connected successfully
+[16-Feb-2026 13:59:13 Europe/Berlin] Server response: 220 smtp.gmail.com ESMTP d9443c01a7336-2ad1a6fa4a0sm70060685ad.14 - gsmtp
+
+[16-Feb-2026 13:59:13 Europe/Berlin] EHLO response: 250-smtp.gmail.com at your service, [2400:1a00:6b6d:7161:fd0e:e34d:ce5b:cdc5]
+
+[16-Feb-2026 13:59:13 Europe/Berlin] EHLO continued: 250-SIZE 35882577
+
+[16-Feb-2026 13:59:13 Europe/Berlin] EHLO continued: 250-8BITMIME
+
+[16-Feb-2026 13:59:13 Europe/Berlin] EHLO continued: 250-STARTTLS
+
+[16-Feb-2026 13:59:13 Europe/Berlin] EHLO continued: 250-ENHANCEDSTATUSCODES
+
+[16-Feb-2026 13:59:13 Europe/Berlin] EHLO continued: 250-PIPELINING
+
+[16-Feb-2026 13:59:13 Europe/Berlin] EHLO continued: 250-CHUNKING
+
+[16-Feb-2026 13:59:13 Europe/Berlin] EHLO continued: 250 SMTPUTF8
+
+[16-Feb-2026 13:59:13 Europe/Berlin] Starting TLS
+[16-Feb-2026 13:59:14 Europe/Berlin] STARTTLS response: 220 2.0.0 Ready to start TLS
+
+[16-Feb-2026 13:59:15 Europe/Berlin] TLS enabled
+[16-Feb-2026 13:59:15 Europe/Berlin] EHLO after TLS: 250-smtp.gmail.com at your service, [2400:1a00:6b6d:7161:fd0e:e34d:ce5b:cdc5]
+
+[16-Feb-2026 13:59:15 Europe/Berlin] Starting authentication
+[16-Feb-2026 13:59:15 Europe/Berlin] AUTH LOGIN response: 334 VXNlcm5hbWU6
+
+[16-Feb-2026 13:59:16 Europe/Berlin] Username response: 334 UGFzc3dvcmQ6
+
+[16-Feb-2026 13:59:16 Europe/Berlin] Password response: 235 2.7.0 Accepted
+
+[16-Feb-2026 13:59:16 Europe/Berlin] Authentication successful
+[16-Feb-2026 13:59:16 Europe/Berlin] MAIL FROM response: 250 2.1.0 OK d9443c01a7336-2ad1a6fa4a0sm70060685ad.14 - gsmtp
+
+[16-Feb-2026 13:59:17 Europe/Berlin] RCPT TO response: 250 2.1.5 OK d9443c01a7336-2ad1a6fa4a0sm70060685ad.14 - gsmtp
+
+[16-Feb-2026 13:59:17 Europe/Berlin] DATA response: 354 Go ahead d9443c01a7336-2ad1a6fa4a0sm70060685ad.14 - gsmtp
+
+[16-Feb-2026 13:59:18 Europe/Berlin] Final response: 250 2.0.0 OK  1771246757 d9443c01a7336-2ad1a6fa4a0sm70060685ad.14 - gsmtp
+
+[16-Feb-2026 13:59:18 Europe/Berlin] Email sent successfully via SMTP
+[16-Feb-2026 13:59:18 Europe/Berlin] SUCCESS: Message sent to rabinchhatkuli@gmail.com from rabinchhatkuli@gmail.com
+[16-Feb-2026 15:04:35 Europe/Berlin] Form submission received from: rabinchhatkuli@gmail.com
+[16-Feb-2026 15:04:35 Europe/Berlin] File uploaded successfully: 699323f3804df_report31406733.pdf
+[16-Feb-2026 15:04:35 Europe/Berlin] Attempting to send email via SMTP
+[16-Feb-2026 15:04:35 Europe/Berlin] Starting SMTP connection to smtp.gmail.com:587
+[16-Feb-2026 15:04:35 Europe/Berlin] SMTP Connected successfully
+[16-Feb-2026 15:04:36 Europe/Berlin] Server response: 220 smtp.gmail.com ESMTP d9443c01a7336-2ad1a9d624esm68245115ad.49 - gsmtp
+
+[16-Feb-2026 15:04:36 Europe/Berlin] EHLO response: 250-smtp.gmail.com at your service, [2400:1a00:6b6d:7161:fd0e:e34d:ce5b:cdc5]
+
+[16-Feb-2026 15:04:36 Europe/Berlin] EHLO continued: 250-SIZE 35882577
+
+[16-Feb-2026 15:04:36 Europe/Berlin] EHLO continued: 250-8BITMIME
+
+[16-Feb-2026 15:04:36 Europe/Berlin] EHLO continued: 250-STARTTLS
+
+[16-Feb-2026 15:04:36 Europe/Berlin] EHLO continued: 250-ENHANCEDSTATUSCODES
+
+[16-Feb-2026 15:04:36 Europe/Berlin] EHLO continued: 250-PIPELINING
+
+[16-Feb-2026 15:04:36 Europe/Berlin] EHLO continued: 250-CHUNKING
+
+[16-Feb-2026 15:04:36 Europe/Berlin] EHLO continued: 250 SMTPUTF8
+
+[16-Feb-2026 15:04:36 Europe/Berlin] Starting TLS
+[16-Feb-2026 15:04:37 Europe/Berlin] STARTTLS response: 220 2.0.0 Ready to start TLS
+
+[16-Feb-2026 15:04:38 Europe/Berlin] TLS enabled
+[16-Feb-2026 15:04:39 Europe/Berlin] EHLO after TLS: 250-smtp.gmail.com at your service, [2400:1a00:6b6d:7161:fd0e:e34d:ce5b:cdc5]
+
+[16-Feb-2026 15:04:39 Europe/Berlin] Starting authentication
+[16-Feb-2026 15:04:39 Europe/Berlin] AUTH LOGIN response: 334 VXNlcm5hbWU6
+
+[16-Feb-2026 15:04:39 Europe/Berlin] Username response: 334 UGFzc3dvcmQ6
+
+[16-Feb-2026 15:04:40 Europe/Berlin] Password response: 235 2.7.0 Accepted
+
+[16-Feb-2026 15:04:40 Europe/Berlin] Authentication successful
+[16-Feb-2026 15:04:40 Europe/Berlin] MAIL FROM response: 250 2.1.0 OK d9443c01a7336-2ad1a9d624esm68245115ad.49 - gsmtp
+
+[16-Feb-2026 15:04:40 Europe/Berlin] RCPT TO response: 250 2.1.5 OK d9443c01a7336-2ad1a9d624esm68245115ad.49 - gsmtp
+
+[16-Feb-2026 15:04:41 Europe/Berlin] DATA response: 354 Go ahead d9443c01a7336-2ad1a9d624esm68245115ad.49 - gsmtp
+
+[16-Feb-2026 15:04:44 Europe/Berlin] Final response: 250 2.0.0 OK  1771250684 d9443c01a7336-2ad1a9d624esm68245115ad.49 - gsmtp
+
+[16-Feb-2026 15:04:44 Europe/Berlin] Email sent successfully via SMTP
+[16-Feb-2026 15:04:44 Europe/Berlin] SUCCESS: Message sent to rabinchhatkuli@gmail.com from rabinchhatkuli@gmail.com with attachment
+[16-Feb-2026 15:04:44 Europe/Berlin] Form submission received from: rabinchhatkuli@gmail.com
+[16-Feb-2026 15:04:44 Europe/Berlin] File uploaded successfully: 699323fc8fc44_report31406733.pdf
+[16-Feb-2026 15:04:44 Europe/Berlin] Attempting to send email via SMTP
+[16-Feb-2026 15:04:44 Europe/Berlin] Starting SMTP connection to smtp.gmail.com:587
+[16-Feb-2026 15:04:44 Europe/Berlin] SMTP Connected successfully
+[16-Feb-2026 15:04:45 Europe/Berlin] Server response: 220 smtp.gmail.com ESMTP 98e67ed59e1d1-35662e6c0dbsm19689977a91.6 - gsmtp
+
+[16-Feb-2026 15:04:45 Europe/Berlin] EHLO response: 250-smtp.gmail.com at your service, [2400:1a00:6b6d:7161:fd0e:e34d:ce5b:cdc5]
+
+[16-Feb-2026 15:04:45 Europe/Berlin] EHLO continued: 250-SIZE 35882577
+
+[16-Feb-2026 15:04:45 Europe/Berlin] EHLO continued: 250-8BITMIME
+
+[16-Feb-2026 15:04:45 Europe/Berlin] EHLO continued: 250-STARTTLS
+
+[16-Feb-2026 15:04:45 Europe/Berlin] EHLO continued: 250-ENHANCEDSTATUSCODES
+
+[16-Feb-2026 15:04:45 Europe/Berlin] EHLO continued: 250-PIPELINING
+
+[16-Feb-2026 15:04:45 Europe/Berlin] EHLO continued: 250-CHUNKING
+
+[16-Feb-2026 15:04:45 Europe/Berlin] EHLO continued: 250 SMTPUTF8
+
+[16-Feb-2026 15:04:45 Europe/Berlin] Starting TLS
+[16-Feb-2026 15:04:46 Europe/Berlin] STARTTLS response: 220 2.0.0 Ready to start TLS
+
+[16-Feb-2026 15:04:47 Europe/Berlin] TLS enabled
+[16-Feb-2026 15:04:47 Europe/Berlin] EHLO after TLS: 250-smtp.gmail.com at your service, [2400:1a00:6b6d:7161:fd0e:e34d:ce5b:cdc5]
+
+[16-Feb-2026 15:04:47 Europe/Berlin] Starting authentication
+[16-Feb-2026 15:04:47 Europe/Berlin] AUTH LOGIN response: 334 VXNlcm5hbWU6
+
+[16-Feb-2026 15:04:48 Europe/Berlin] Username response: 334 UGFzc3dvcmQ6
+
+[16-Feb-2026 15:04:48 Europe/Berlin] Password response: 235 2.7.0 Accepted
+
+[16-Feb-2026 15:04:48 Europe/Berlin] Authentication successful
+[16-Feb-2026 15:04:48 Europe/Berlin] MAIL FROM response: 250 2.1.0 OK 98e67ed59e1d1-35662e6c0dbsm19689977a91.6 - gsmtp
+
+[16-Feb-2026 15:04:49 Europe/Berlin] RCPT TO response: 250 2.1.5 OK 98e67ed59e1d1-35662e6c0dbsm19689977a91.6 - gsmtp
+
+[16-Feb-2026 15:04:49 Europe/Berlin] DATA response: 354 Go ahead 98e67ed59e1d1-35662e6c0dbsm19689977a91.6 - gsmtp
+
+[16-Feb-2026 15:04:53 Europe/Berlin] Final response: 250 2.0.0 OK  1771250692 98e67ed59e1d1-35662e6c0dbsm19689977a91.6 - gsmtp
+
+[16-Feb-2026 15:04:53 Europe/Berlin] Email sent successfully via SMTP
+[16-Feb-2026 15:04:53 Europe/Berlin] SUCCESS: Message sent to rabinchhatkuli@gmail.com from rabinchhatkuli@gmail.com with attachment
